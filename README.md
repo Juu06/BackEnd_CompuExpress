@@ -54,3 +54,7 @@ https://www.youtube.com/watch?v=ys1WifwEf3I
 
 Link a Video del FrontEnd:	
 https://www.youtube.com/watch?v=znI_spr9F4U
+
+
+##Deploy del BackEnd
+https://backendcompuexpress-production.up.railway.app/
