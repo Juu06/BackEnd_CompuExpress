@@ -56,6 +56,13 @@ Link a Video del FrontEnd:
 https://www.youtube.com/watch?v=znI_spr9F4U
 
 
-##Deploy del BackEnd
+## Deploy del BackEnd
 
 https://backendcompuexpress-production.up.railway.app/
+
+## Deploy de la Base de Datos
+
+containers-us-west-133.railway.app
+puerto: 6199
+user: root
+password: iSw4PuRGKVVaRShqkkie
